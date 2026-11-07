@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Vzla Calc",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Calculadora paea todo tipo de comerciantes que quiere estar al dia y con cuentas claras",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
